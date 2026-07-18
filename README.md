@@ -1,5 +1,5 @@
-
-## 👋 About Me<br><br>Cybersecurity graduate from Saudi Arabia 🇸🇦<br><br>- 🔐 Cybersecurity<br>- 🤖 Discord Bot Developer<br>- 🎮 FiveM Developer<br>- 🐳 Docker & Proxmox<br>- 🌐 JavaScript | TypeScript | Node.js | Lua<br>- ☁️ Server Administration<br><br>Always building, learning, and improving secure software.
+# 💫 About Me:
+Cybersecurity graduate from Saudi Arabia 🇸🇦<br>- 🔐 Cybersecurity<br>- 🤖 Discord Bot Developer<br>- 🎮 FiveM Developer<br>- 🐳 Docker & Proxmox<br>- 🌐 JavaScript | TypeScript | Node.js | Lua<br>- ☁️ Server Administration<br>Always building, learning, and improving secure software.
 
 
 ## 🌐 Socials:
